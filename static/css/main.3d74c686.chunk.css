@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:Roboto,sans-serif}body{margin:20px}.todo-list{list-style:none;margin:0;padding:0;display:grid;grid-gap:20px;gap:20px;grid-template-columns:repeat(2,1fr)}.todo-info{padding:20px;border:1px solid #000;background-color:#ebeeff}.todo-info__title{font-size:20px;margin-bottom:5px}.todo-info__status{font-size:20px;margin-bottom:25px}.user-info__email,.user-info__name{font-size:18px}
+/*# sourceMappingURL=main.3d74c686.chunk.css.map */
